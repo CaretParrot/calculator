@@ -1,12 +1,8 @@
 #settings {
     display: none;
+    grid: auto / auto auto;
 }
 
 .page * {
     font-size: 3rem;
-}
-
-#settings {
-    display: grid;
-    grid: auto / auto auto;
 }
